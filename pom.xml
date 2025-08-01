@@ -39,7 +39,7 @@
  <configuration>
          <url>http://52.140.70.4:8080/manager/text</url>
  <server>TomcatServer</server>
- <path>/helloworld-webapp</path>
+ <path>/helloworld</path>
  </configuration>
 </plugin>
 
